@@ -7,7 +7,7 @@
 
 - 👨‍💻 Senior Computer Science undergrad, PES University
 
-- 💬 I'm into **natural language processing, big data, database management and bioinformatics (to some extent)**
+- 💬 I'm into **natural language processing, big data, and database management**
 
 - 🌱 Giving back to the community as a **Github Campus Expert**, **Student Chair - IEEE CS PESU '21 - '22**
 
