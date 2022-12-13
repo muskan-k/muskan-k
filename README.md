@@ -3,9 +3,9 @@
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary> 👩🏻 More about me</summary>
 
-- 👨‍💻 Senior Computer Science undergrad, PES University
+- 👩🏻‍🎓 Senior Computer Science undergrad, PES University
 
 - 💬 I'm into **natural language processing, big data, and database management**
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="left"> 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 👩🏻‍💻 Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -40,11 +40,11 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left"> 📈 Github Stats:</h3>
 <a href="http://www.github.com/muskan-k"><img src="https://github-readme-stats.vercel.app/api?username=muskan-k&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="muskan-k's GitHub stats" /></a>
 <a href="http://www.github.com/muskan-k"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-k&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="center">
+<h3 align="left"> 🤳🏼 Connect: </h3>
   <a href="https://twitter.com/_muskankothari"><img width="32px" alt="Twitter" title="Twitter" src="https://user-images.githubusercontent.com/60001051/207409625-9c513cf8-b3a9-4922-a946-d36dc2cb6cf4.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/muskankothari/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://user-images.githubusercontent.com/60001051/207404993-3deaf0fa-1be9-4cdf-bbd2-83bce408a884.png"/></a>
