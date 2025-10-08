@@ -5,11 +5,11 @@
 <details>
   <summary> 👩🏻 More about me</summary>
 
-- 👩🏻‍🎓 Senior Computer Science undergrad, PES University
+- 👩🏻‍🎓 2025 Computer Science grad student @ UMass Amherst 
 
-- 💬 I'm into **natural language processing, big data, and data mining**
+- 💬 Experienced in **backend systems, machine learning & big data**
 
-- 🌱 Giving back to the community as a **Github Campus Expert**, **Student Chair - IEEE CS PESU '21 - '22**
+- 🌱 Giving back to the community as a **Github Campus Expert '21 - '23**, **Student Chair - IEEE CS PESU '21 - '22**
 
 </details>
 
