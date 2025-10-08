@@ -2,16 +2,13 @@
 <img align="right" src="https://media.giphy.com/media/JrpfevOVogixZYWp9O/source.gif" width="400px" alt="preview"/>
 
 <div>
-<details>
-  <summary> 👩🏻 More about me</summary>
+<summary> 👩🏻 More about me</summary>
 
 - 👩🏻‍🎓 2025 Computer Science grad student @ UMass Amherst 
 
 - 💬 Experienced in **backend systems, machine learning & big data**
 
 - 🌱 Giving back to the community as a **Github Campus Expert '21 - '23**, **Student Chair - IEEE CS PESU '21 - '22**
-
-</details>
 
 <p align="left">
 </p>
@@ -42,7 +39,6 @@
 
 
 ## 📈 GitHub Stats
-![Muskan Kothari's Github stats](https://github-readme-stats.vercel.app/api?username=muskan-k&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan-k&layout=compact&show_icons=true&theme=tokyonight)
 
